@@ -1,5 +1,7 @@
 # Yuk Danain App
 
+![797shots_so-removebg-preview](https://github.com/cantikaputria/Yuk-Danain/assets/85111014/20c59df6-64e1-4598-b8e1-e39690443b49)
+
 ### Overview
 > YukDanain is a cutting-edge Peer-to-Peer (P2P) lending app built with Flutter. The app facilitates direct lending and borrowing transactions between investor and MSME owner eliminating intermediaries and providing competitive interest rates.
 
@@ -17,7 +19,7 @@
 * **Secure Transactions:** YukDanain ensures secure and encrypted transactions, providing a safe platform for financial interactions.
 * **User-Friendly Interface:** The app boasts an intuitive and user-friendly interface for easy navigation and smooth user experience.
 
-## Getting Started
+### Getting Started
 This project is a starting point for a Flutter application. A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
@@ -26,3 +28,6 @@ This project is a starting point for a Flutter application. A few resources to g
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Live Demo
+[will be updated soon]
