@@ -1,4 +1,4 @@
-# Yuk Danain Apps
+# Yuk Danain App
 
 ### Overview
 > YukDanain is a cutting-edge Peer-to-Peer (P2P) lending app built with Flutter. The app facilitates direct lending and borrowing transactions between investor and MSME owner eliminating intermediaries and providing competitive interest rates.
